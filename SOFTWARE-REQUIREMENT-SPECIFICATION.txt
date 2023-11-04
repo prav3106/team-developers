@@ -1,6 +1,0 @@
-Logo on the top left
-Followed by Delivery city, search bar, Login info, Order list and Cart
-Navigation bar below the search bar
-Information on new deals below the navigation bar
-Display product details below
-Footer should contain extra details such as socials and affiliate detalils.
